@@ -1,7 +1,7 @@
 {
-  "name": "SeqLabs",
+  "name": "Sequencer",
   "website": "https://github.com/areslayer",
-  "description": "As long-time users (crypto-native degens), SeqLabs runs nodes across the entire space",
+  "description": "Sequencer: reliably running on-chain infra",
   "logo": "https://www.example.com/logo.png",
   "twitter": "https://twitter.com/sequencercap"
 }
